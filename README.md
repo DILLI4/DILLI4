@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @DILLI4
-- 👀 I’m interested in ...code,riding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DILLI4/DILLI4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Linear-Regression-ML-Project
+This is a beginner ML project for understanding the ML regression model working principle(Including very very small dataset). The main aim of this ML project is to give an idea about how ML work. 
